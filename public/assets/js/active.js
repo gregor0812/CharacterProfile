@@ -137,7 +137,7 @@ jQuery(document).ready(function($){
 });
 
 jQuery(window).load(function(){
-    $(".MnabiPreloder").fadeOut(500);
+    $(".preloader").fadeOut(500);
 });
 
 }(jQuery));

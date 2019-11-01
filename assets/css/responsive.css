@@ -1,12 +1,12 @@
 
 
 @media only screen and (min-width: 1440px) and (max-width: 1600px) {
-.autor_image {
+.character_image {
   left: 10%;
 }
   }
 @media only screen and (min-width: 1280px) and (max-width: 1439px) {
-.autor_image {
+.character_image {
   left: 8%;
 }
   }
@@ -19,7 +19,7 @@
   }
 
 @media only screen and (min-width: 1024px) and (max-width: 1279px) {
-.autor_image {
+.character_image {
   left: 2%;
 }
 .header-text h1 {
@@ -42,7 +42,7 @@
 .header_content {
   padding: 200px 0;
 }
-.autor_image {
+.character_image {
   height: 450px;
   left: 1%;
 }
@@ -52,13 +52,13 @@
 .header-text h1 {
   font-size: 39px;
 }
-.author-ifno .author-title {
+.author-ifno .character-title {
   padding-top: 50px;
   padding-bottom: 0;
   text-align: center;
 }
 
-.author-ifno .author-title {
+.author-ifno .character-title {
   text-align: center;
 }
 .divider {
@@ -126,7 +126,7 @@
 
   }
 @media only screen and (min-width: 960px) and (max-width: 1023px) {
-.autor_image {
+.character_image {
   left: 8%;
 }
   }
@@ -144,7 +144,7 @@
 .header_content {
   padding: 70px 0;
 }
-.autor_image {
+.character_image {
   display: none;
 }
 .header-text h3 {
@@ -198,8 +198,8 @@ Only Mobile Menu Supported
   border-top: 1px solid transparent;
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset;
 }
-.brand-logo,
-.is-sticky .brand-logo{
+.organization-image,
+.is-sticky .organization-image{
   margin: 12px 10px;
 }
 .navigation-area .navbar-nav li.active a::before{
@@ -208,11 +208,11 @@ Only Mobile Menu Supported
 .navigation-area .navbar-nav > li > a::after {
   height: 1px;
 }
-.author-name {
+.character-name {
   text-align: center;
   padding: 20px  0;
 }
-.author-ifno .author-title {
+.author-ifno .character-title {
   text-align: center;
 }
 .BioData table tr td.padding-top{
@@ -225,7 +225,7 @@ Only Mobile Menu Supported
 .divider {
   margin: 30px auto;
 }
-.experiacneArea h4 {
+.archetypeArea h4 {
   font-size: 20px;
   margin-bottom: 0;
   text-align: center;
